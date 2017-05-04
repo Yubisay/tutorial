@@ -1,3 +1,3 @@
-# Hello
+# Tutorial
 
-How are you _friend_
+This is my tutorial repository.
